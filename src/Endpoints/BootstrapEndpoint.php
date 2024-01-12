@@ -18,7 +18,7 @@ class BootstrapEndpoint
     /**
      * @var string
      */
-    public $domain = 'api.wonde.com';
+    public $domain = 'ed1-api.wonde.com';
 
     /**
      * @var string
